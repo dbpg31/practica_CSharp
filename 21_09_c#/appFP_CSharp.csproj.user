@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="condicionales\12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login\LoginMaestro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login\LoginAtenea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secuenciales\01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secuenciales\02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secuenciales\03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secuenciales\04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
